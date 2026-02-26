@@ -1,6 +1,5 @@
 cv:
   name: Zhenxing Dong
-  # label: Senior Engineer
   email: zhenxing [dot] dong11 [at] gmail [dot] com
   location: Qingpu District, Shanghai, China
   image: ""
@@ -23,7 +22,7 @@ cv:
 
     Experience:
       - company: Software Department, Huawei CBG
-        position: Senior Engineer
+        position: Researcher
         location: Shanghai, China
         start_date: 2025
         end_date: Present
