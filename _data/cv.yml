@@ -35,10 +35,10 @@ cv:
         details: Photonics Research, Displays, Optics Express, Optics Letters, Biomedical Optics Express, Applied Optics, Journal of the Optical Society of America A
 
     Skills:
-      - label: Programming Tools
-        details: Python, Matlab, PyTorch, TensorFlow
-      - label: Language
-        details: English, Chinese
+      - name: Programming Tools
+        keywords: ["Python", "Matlab", "PyTorch", "TensorFlow"]
+      - name: Language
+        keywords: ["English", "Chinese"]
 
     # Awards:
     #   - title: Nobel Prize in Physics
