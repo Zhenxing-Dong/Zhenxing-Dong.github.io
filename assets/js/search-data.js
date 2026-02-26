@@ -398,16 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-delighted-to-share-our-paper-motion-hologram-is-accepted-in-science-advances-tada-tada-tada",
+          title: 'Delighted to share: Our paper “Motion Hologram” is accepted in Science Advances! :tada:...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-finally-done-cheers-to-successfully-completing-my-doctoral-defense-sparkles-smile",
+          title: 'Finally done! Cheers to successfully completing my doctoral defense! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
