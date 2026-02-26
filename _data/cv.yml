@@ -1,25 +1,9 @@
 cv:
   name: Zhenxing Dong
-  label: Senior Engineer
+  # label: Senior Engineer
   email: zhenxing [dot] dong11 [at] gmail [dot] com
   location: Qingpu District, Shanghai, China
   image: ""
-  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  # social_networks:
-  #   - network: X
-  #     username: AlbertEinstein
-  #   - network: GitHub
-  #     username: example
-  #   - network: LinkedIn
-  #     username: example
-
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
 
   sections:
     Education:
@@ -32,7 +16,7 @@ cv:
         Advisor: Prof. Yuye Ling
 
       - institution: Souch China University of Technology - B.S. in Information Engineering
-        location: Guangzhou, Guangdong, China
+        location: Guangzhou, China
         url: https://www.scut.edu.cn/
         start_date: 2016
         end_date: 2020
@@ -44,6 +28,17 @@ cv:
         start_date: 2025
         end_date: Present
 
+    Academic Services:
+      - label: Conference Reviewer
+        details: CVPR, ECCV
+      - label: Journal Reviewer
+        details: Photonics Research, Displays, Optics Express, Optics Letters, Biomedical Optics Express, Applied Optics, Journal of the Optical Society of America A
+
+    Skills:
+      - label: Programming Tools
+        details: Python, Matlab, PyTorch, TensorFlow
+      - label: Language
+        details: English, Chinese
 
     # Awards:
     #   - title: Nobel Prize in Physics
