@@ -31,4 +31,4 @@ I am a researcher in Huawei CBG, where I focus on the design and development of 
 
 I obtained Ph.D. degree from Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU) in 2025, supervised by Prof. Yuye Ling. I primarily work on co-designing optical systems and algorithms towards next-generation VR & AR displays. Before that, I received the B.Eng. degree in Information Engineering from South China University of Technology (SCUT) in 2020.
 
-Currently, my research interests lie in LLM for Software Engineering, particularly GUI Agent and Code Automatic Repair.
+Currently, my research interests lie in GUI Agent, particularly VLM-driven Automated Task Execution and UI automation testing across various application scenarios.
