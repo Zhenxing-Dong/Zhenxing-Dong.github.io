@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-06'
 papers:
   KjoukgwAAAAJ:IjCSPb-OGe4C:
     citations: 12
     title: GPU-accelerated iterative method for FD-OCT image reconstruction with an image-level cross-domain regularizer
     year: '2023'
   KjoukgwAAAAJ:Se3iqnhoufwC:
-    citations: 9
+    citations: 10
     title: 'Motion Hologram: Jointly optimized hologram generation and motion planning for photorealistic 3D displays via reinforcement learning'
     year: '2025'
   KjoukgwAAAAJ:Tyk-4Ss8FVUC:
@@ -18,7 +18,7 @@ papers:
     title: Fourier-inspired neural module for real-time and high-fidelity computer-generated holography
     year: '2023'
   KjoukgwAAAAJ:W7OEmFMy1HYC:
-    citations: 19
+    citations: 20
     title: Gaze-contingent efficient hologram compression for foveated near-eye holographic displays
     year: '2023'
   KjoukgwAAAAJ:Y0pCki6q_DkC:
@@ -26,7 +26,7 @@ papers:
     title: "Deep learning empowered highly compressive SS-OCT via learnable spectral\u2013spatial sub-sampling"
     year: '2023'
   KjoukgwAAAAJ:YsMSGLbcyi4C:
-    citations: 13
+    citations: 14
     title: Frequency-aware optical coherence tomography image super-resolution via conditional generative adversarial neural network
     year: '2023'
   KjoukgwAAAAJ:_FxGoFyzp5QC:
@@ -46,6 +46,6 @@ papers:
     title: Deep learning-based approach for efficient generation and transmission of high-definition computer-generated holography
     year: '2024'
   KjoukgwAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: Fast iterative method empowered by GPU acceleration for Fourier-domain optical coherence tomography image reconstruction
     year: '2023'
