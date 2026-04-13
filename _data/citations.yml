@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-13'
 papers:
   KjoukgwAAAAJ:IjCSPb-OGe4C:
     citations: 12
@@ -14,7 +14,7 @@ papers:
     title: Vision transformer-based, high-fidelity, computer-generated holography
     year: '2023'
   KjoukgwAAAAJ:UeHWp8X0CEIC:
-    citations: 34
+    citations: 35
     title: Fourier-inspired neural module for real-time and high-fidelity computer-generated holography
     year: '2023'
   KjoukgwAAAAJ:W7OEmFMy1HYC:
