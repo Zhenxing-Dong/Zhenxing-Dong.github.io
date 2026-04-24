@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-24'
 papers:
   KjoukgwAAAAJ:IjCSPb-OGe4C:
     citations: 12
@@ -26,7 +26,7 @@ papers:
     title: "Deep learning empowered highly compressive SS-OCT via learnable spectral\u2013spatial sub-sampling"
     year: '2023'
   KjoukgwAAAAJ:YsMSGLbcyi4C:
-    citations: 14
+    citations: 16
     title: Frequency-aware optical coherence tomography image super-resolution via conditional generative adversarial neural network
     year: '2023'
   KjoukgwAAAAJ:_FxGoFyzp5QC:
