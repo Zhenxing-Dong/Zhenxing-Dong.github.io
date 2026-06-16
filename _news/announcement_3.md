@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-UI intent verification agent has been released ! More details can be found [here](https://gitcode.com/openharmony-sig/deveco-code). :tada:
+UI verification agent has been released ! More details can be found [here](https://gitcode.com/openharmony-sig/deveco-code). :tada:
