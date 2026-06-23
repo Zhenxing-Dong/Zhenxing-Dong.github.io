@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher in Huawei CBG, where I focus on building AI-powered automation tools to verify HarmonyOS UI functions and multi-device visual UX quality. The latest UI intent verification agent has been integrated into DevEco Code.
+I am a researcher in Huawei CBG, where I focus on building AI-powered automation tools to verify HarmonyOS UI functions and multi-device visual UX quality. The latest UI verification agent has been integrated into DevEco Code.
 
 I obtained Ph.D. degree from Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU) in 2025, supervised by Prof. Yuye Ling. I primarily work on co-designing optical systems and algorithms towards next-generation VR & AR displays. Before that, I received the B.Eng. degree in Information Engineering from South China University of Technology (SCUT) in 2020.
 
