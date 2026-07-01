@@ -31,5 +31,5 @@ I am a researcher in Huawei CBG, where I focus on building AI-powered automation
 
 I obtained Ph.D. degree from Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU) in 2025, supervised by Prof. Yuye Ling. I primarily work on co-designing optical systems and algorithms towards next-generation VR & AR displays. Before that, I received the B.Eng. degree in Information Engineering from South China University of Technology (SCUT) in 2020.
 
-Currently, my research interests cover GUI Agent and LLM-as-a-judge evaluation, focusing on VLM-driven automated task execution and cross-scenario UI/UX verification. I aim to improve overall task completion quality for AI coding systems via adversarial multi-agent validation and iterative result convergence.
+Currently, my research interests cover GUI Agent and LLM-as-a-judge evaluation. Specifically, I seek to empower VLM to address the challenging UX adaptation problems in HarmonyOS multi-device scenarios, and aim to enhance the task completion robustness of AI coding systems via adversarial multi-agent validation and loop engineering.
 
